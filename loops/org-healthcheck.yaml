@@ -1,0 +1,7 @@
+name: org-healthcheck
+skills:
+  - org-coding-standards
+trigger:
+  type: manual
+goal_state: "Org shared source has no commit skill — bundled fallback expected"
+human_gate: true
